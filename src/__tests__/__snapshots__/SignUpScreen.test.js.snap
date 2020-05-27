@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignUp Screen tests Should render SignUp component properly 1`] = `<SignUpScreen />`;
