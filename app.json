@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "whatscool-mobile-frontend",
-    "slug": "whatscool-mobile-frontend",
+    "name": "WhatsCool",
+    "slug": "WhatsCool",
     "platforms": [
       "ios",
       "android",
