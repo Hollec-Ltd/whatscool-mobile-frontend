@@ -62,6 +62,7 @@ Running the tests
 
   - 🇷🇼**Emmanuel HAKORIMANA** joined since 2017
   - 🇷🇼**Victor KARANGWA** joined since 2017
+  - 🇷🇼**Emery Herve Kirezi** joined since 2017
 
 # Authors
 
